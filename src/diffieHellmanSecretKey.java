@@ -1,4 +1,5 @@
 /**
+ * Cryptography Assignment - 26403919
  * diffieHellmanSecretKey
  */
 public class diffieHellmanSecretKey {

@@ -1,6 +1,10 @@
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Cryptography Assignment - 26403919
+ * Set up
+ */
 public class diffieHellmanSetUp {
     /**
      * 

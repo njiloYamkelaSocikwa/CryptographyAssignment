@@ -1,3 +1,7 @@
+/**
+ * Cryptography Assignment - 26403919
+ * Messages
+ */
 public class diffieHellmanMessages {
 
     public static void main(String[] args) {
