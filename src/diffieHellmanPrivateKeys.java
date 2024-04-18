@@ -24,5 +24,13 @@ public class diffieHellmanPrivateKeys {
          * Blake's private key is: 485
          */
 
+        generateNumber("(x) Max ", 787);
+        generateNumber("(y) Max ", 787);
+        // Output:
+        /*
+         * (x) Max 's private key is: 579
+         * (y) Max 's private key is: 550
+         */
+
     }
 }
